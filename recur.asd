@@ -1,5 +1,5 @@
 ;;;; recur.asd
-;;;; Copyright (c) 2012 Robert Smith
+;;;; Author: Robert Smith -- 2012
 
 (asdf:defsystem #:recur
   :serial t
